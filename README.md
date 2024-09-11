@@ -3,11 +3,9 @@
 
 - 🌱 I’m currently learning **React js**
 
-- 👯 I’m looking to collaborate as **Frontend Developer**
+- 👯 I’m looking to collaborate as **Frontend Developer | Angular Developer | Web Developer**
 
 - 👨‍💻 All of my projects are available at [https://oribautista99.netlify.app/](https://oribautista99.netlify.app/)
-
-- 💬 Ask me about **Angular**
 
 - 📫 How to reach me **oribautista99@gmail.com**
 
